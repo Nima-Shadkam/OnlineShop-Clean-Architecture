@@ -1,0 +1,34 @@
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Application.deps.json
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Application.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Application.pdb
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Core.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Infrastructure.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Core.pdb
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\bin\Debug\net6.0\Infrastructure.pdb
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\refint\Application.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.pdb
+E:\DevTube\WebAPI React\Session02\OnlineShop\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Application.deps.json
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Application.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Application.pdb
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Core.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Infrastructure.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Core.pdb
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\bin\Debug\net6.0\Infrastructure.pdb
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\Application.pdb
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Application\obj\Debug\net6.0\ref\Application.dll

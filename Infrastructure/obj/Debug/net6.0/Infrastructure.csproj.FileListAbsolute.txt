@@ -1,0 +1,24 @@
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\DevTube\WebAPI React\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Temp\1,2,3,4,5\1,2,3,4,5\2.Api\Session02\OnlineShop\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

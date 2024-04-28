@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.ProductController.Get(System.Int32)">
+            <summary>
+              Get a Product By Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ProductController.GetAll">
+            <summary>
+              Get All products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ProductController.Add(Infrastructure.Dto.ProductDto)">
+            <summary>
+             Add a New product
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ProductController.Update(Infrastructure.Dto.ProductDto)">
+            <summary>
+             Update a product
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ProductController.Update(System.Int32)">
+            <summary>
+             Delete a product
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
