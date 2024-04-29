@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\OnlineShop\\API\\API.csproj": {}
+    "C:\\Projects\\OnlineShop-CQRS\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\OnlineShop\\API\\API.csproj": {
+    "C:\\Projects\\OnlineShop-CQRS\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OnlineShop\\API\\API.csproj",
+        "projectUniqueName": "C:\\Projects\\OnlineShop-CQRS\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Projects\\OnlineShop\\API\\API.csproj",
+        "projectPath": "C:\\Projects\\OnlineShop-CQRS\\API\\API.csproj",
         "packagesPath": "C:\\Users\\No1\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OnlineShop\\API\\obj\\",
+        "outputPath": "C:\\Projects\\OnlineShop-CQRS\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\No1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\OnlineShop\\Application\\Application.csproj": {
-                "projectPath": "C:\\Projects\\OnlineShop\\Application\\Application.csproj"
+              "C:\\Projects\\OnlineShop-CQRS\\Application\\Application.csproj": {
+                "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Application\\Application.csproj"
               },
-              "C:\\Projects\\OnlineShop\\Core\\Core.csproj": {
-                "projectPath": "C:\\Projects\\OnlineShop\\Core\\Core.csproj"
+              "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj": {
+                "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj"
               },
-              "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Projects\\OnlineShop\\Application\\Application.csproj": {
+    "C:\\Projects\\OnlineShop-CQRS\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OnlineShop\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Projects\\OnlineShop-CQRS\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Projects\\OnlineShop\\Application\\Application.csproj",
+        "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\No1\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OnlineShop\\Application\\obj\\",
+        "outputPath": "C:\\Projects\\OnlineShop-CQRS\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\No1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,11 +146,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\OnlineShop\\Core\\Core.csproj": {
-                "projectPath": "C:\\Projects\\OnlineShop\\Core\\Core.csproj"
+              "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj": {
+                "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj"
               },
-              "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "C:\\Projects\\OnlineShop\\Core\\Core.csproj": {
+    "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OnlineShop\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Projects\\OnlineShop\\Core\\Core.csproj",
+        "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\No1\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OnlineShop\\Core\\obj\\",
+        "outputPath": "C:\\Projects\\OnlineShop-CQRS\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\No1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,8 +214,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -265,14 +265,14 @@
         }
       }
     },
-    "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\No1\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OnlineShop\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\No1\\AppData\\Roaming\\NuGet\\NuGet.Config",

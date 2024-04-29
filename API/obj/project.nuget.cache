@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPvYSR1t4KQPVRnXtGaniUjqZcjxIrQYxREf2JkKwPwBhLIGZ4DosLlKC0aGI5zcnO80XlGM9wyeKRy4CJIAVQ==",
+  "dgSpecHash": "lV3C/DYz8lRmL0Xf2RZZZ83u4QlGT7giDxBSgwWC9+QgqWHM7MAl0Z4lqWRoSyArEEUx7S/K9addURD6sOITVA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\OnlineShop\\API\\API.csproj",
+  "projectFilePath": "C:\\Projects\\OnlineShop-CQRS\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\No1\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\No1\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

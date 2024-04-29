@@ -1142,11 +1142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\No1\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\OnlineShop\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\No1\\AppData\\Roaming\\NuGet\\NuGet.Config",

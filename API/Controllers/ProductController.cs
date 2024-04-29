@@ -28,7 +28,7 @@ public class ProductController : BaseController
     ///   Get All products
     /// </summary>
     /// <returns></returns>
-    [HttpGet]
+    [HttpGet("GetAll")]
     public async Task<IActionResult> GetAll()
     {
         var result = await productService.GetAll();

@@ -59,6 +59,7 @@ builder.Services.AddCore();
 
 
 builder.Services.AddInfrastructure();
+builder.Services.AddJWT();
 builder.Services.AddSwagger();
 builder.Services.AddCustomCors();
 builder.Services.AddControllers().AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);

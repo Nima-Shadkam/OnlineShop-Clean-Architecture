@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Di5EtQ9PPlkDQgJvoa5BoN2E6qnvnJ6+YsEQd9wZCKABEbo3c/h+sjuxGUoo5gK6H7JXKtAa1lSkQB6eKeKgMg==",
+  "dgSpecHash": "HKXAB4oriDwDEUtsbiKiENDAEFoscJlNEVJPyyZUR4hNxBJ+RWEbcYsXUM7iE1kPlIqmteMJyN7DClScP+mk/Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\OnlineShop\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\No1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\No1\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",

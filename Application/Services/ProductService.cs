@@ -35,6 +35,7 @@ public class ProductService : IProductService
         result.Data = model;
         result.IsSuccess = true;
         result.Message = "The operation was Successful";
+        result.StatusCode = 200;
 
         return result;
     }
@@ -49,6 +50,8 @@ public class ProductService : IProductService
         logger.LogInformation($"Remove Product : {item.ProductName + " - " + item.Id }");
         result.IsSuccess = true;    
         result.Message = "The operation was Successful";
+        result.Data = true;
+        result.StatusCode = 200;
 
         return result;
 
@@ -67,7 +70,7 @@ public class ProductService : IProductService
             ProductName = product.ProductName,
             PriceWithComma = product.Price.ToString("###.###"),
         };
-
+        result.StatusCode = 200;
         result.Data = model;    
         result.IsSuccess = true;    
         return result;
@@ -84,7 +87,8 @@ public class ProductService : IProductService
             ProductName = product.ProductName,
             PriceWithComma = product.Price.ToString("###.###"),
         }).ToListAsync();
-
+        result.StatusCode = 200;
+        result.Total = result.Data.Count;
         result.IsSuccess = true;
 
         return result;
@@ -98,9 +102,11 @@ public class ProductService : IProductService
         data.ProductName = model.ProductName;   
         data.Price = model.Price;
         logger.LogInformation($"Update Product : {data.Id}");
-
+        result.Data = true;
         result.Message = "The operation was Successful";
         result.IsSuccess=true;
+        result.StatusCode = 200;
+
         return result;
     }
 }

@@ -2598,11 +2598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\OnlineShop\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Projects\\OnlineShop\\Core\\Core.csproj",
+      "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\No1\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\OnlineShop\\Core\\obj\\",
+      "outputPath": "C:\\Projects\\OnlineShop-CQRS\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\No1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2619,8 +2619,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Projects\\OnlineShop-CQRS\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
