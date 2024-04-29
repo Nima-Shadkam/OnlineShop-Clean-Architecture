@@ -13,7 +13,7 @@ namespace API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [EnableCors("OnlineShopAPI")]
-    //[Authorize]
+    [Authorize]
 
     public class BaseController : ControllerBase
     {
