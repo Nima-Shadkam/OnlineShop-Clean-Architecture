@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+rX04yh/6wW/t20eeb9NRacOezmCddIrGuk1l0oc9ib+wZuAu1NEFY5uZLBQ4xzLkR2gQ678vBKqm4QTFTTIg==",
+  "dgSpecHash": "Di5EtQ9PPlkDQgJvoa5BoN2E6qnvnJ6+YsEQd9wZCKABEbo3c/h+sjuxGUoo5gK6H7JXKtAa1lSkQB6eKeKgMg==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\1,2,3,4,5\\1,2,3,4,5\\2.Api\\Session02\\OnlineShop\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Projects\\OnlineShop\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\No1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\No1\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",

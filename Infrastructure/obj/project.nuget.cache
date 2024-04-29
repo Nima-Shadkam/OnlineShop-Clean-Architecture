@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGgt7HrPNXE02muRi4Ray/JF8t4tXk8Lci3S6YhvLXKB/gPKkb4QDC+FYCd6CS3hOaGGEMcuSSgUn2IDxxMrOQ==",
+  "dgSpecHash": "HzSILhSAG4HdDDFGU3rLNwf7Wxy5lhZxIeLYOl4Nrx9FviQaUHo8vJvUuG0h5RApZ2Vi7wxTwaDqKA11CcXc/g==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\1,2,3,4,5\\1,2,3,4,5\\2.Api\\Session02\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Projects\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\No1\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\No1\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
